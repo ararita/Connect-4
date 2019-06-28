@@ -45,8 +45,8 @@
             ) {
                 !slotsInCol.eq(i).addClass(currentPlayer);
                 break;
-            } //closes if block
-        } //closes for loop
+            } 
+        } 
         verticalVictoryCheck(slotsInCol);
         horizontalVictoryCheck($(".row" + i));
         diagonalVictoryCheck();
@@ -133,4 +133,4 @@
             victory.addClass("win");
         }, 1000);
     }
-})(); //closes iife
+})(); 
