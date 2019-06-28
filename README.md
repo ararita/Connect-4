@@ -18,7 +18,17 @@ In this game players take turns dropping their pieces into one of seven columns 
 
 ## Technologies
 
-- HTML, CSS, jQuery
+- HTML
+- CSS
+- jQuery
+
+<!-- 
+## Preview 
+
+Horizontal win: 
+
+![Horizontal win] (connect4/horizontal-win.mov)    -->
+
 
 
 
