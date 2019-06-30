@@ -21,8 +21,7 @@ In this game players take turns dropping their pieces into one of seven columns 
 -   CSS
 -   jQuery
 
-<!-- ## Preview
+## Preview
 
-Horizontal win:
+![](winning.gif) 
 
-![](horizontal-win.mov) -->
